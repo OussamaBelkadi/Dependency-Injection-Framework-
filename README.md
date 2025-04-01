@@ -18,7 +18,7 @@ This project is the **first part** of a series that demonstrates how to build a 
 
 ### Prerequisites
 - **Java 17+**
-- **Maven or Gradle** for dependency management
+- **Maven for dependency management
 
 ### Installation
 1. Clone the repository:
